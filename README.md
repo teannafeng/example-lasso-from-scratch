@@ -64,7 +64,8 @@ example-lasso-from-scratch/
 │   ├── lasso.py        
 │   ├── plot.py
 │   ├── print.py
-│   └── simulate.py
+│   ├── simulate.py
+│   └── utils.py
 │
 ├── example/
 │   └── demo.py         # example
