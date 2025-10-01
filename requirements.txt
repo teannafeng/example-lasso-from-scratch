@@ -1,0 +1,6 @@
+numpy>=2.3.0
+matplotlib>=3.10.0
+scikit-learn>=1.7.0
+tqdm>=4.67
+ipykernel>=6.30.0
+typer>=0.19.0
